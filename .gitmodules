@@ -1,3 +1,4 @@
 [submodule "workshop-common"]
 	path = workshop-common
 	url = https://github.com/NBISweden/workshop-common.git
+	branch = feature/elixir_mode
