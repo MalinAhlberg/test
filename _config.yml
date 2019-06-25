@@ -2,10 +2,10 @@ title: "TBA workshop"
 baseurl: /test
 
 # where things are
-layouts_dir: ./workshop-common/layouts
-includes_dir: ./workshop-common/includes
+layouts_dir: ./workshop-test/layouts
+includes_dir: ./workshop-test/includes
 sass:
-  sass_dir: ./workshop-common/sass
+  sass_dir: ./workshop-test/sass
 
 plugins:
   - jemoji
